@@ -32,17 +32,17 @@
 		<dependency>
 			<groupId>io.kubernetes</groupId>
 			<artifactId>client-java-api</artifactId>
-			<version>16.0.0</version>
+			<version>21.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>io.kubernetes</groupId>
 			<artifactId>client-java</artifactId>
-			<version>16.0.0</version>
+			<version>21.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>io.kubernetes</groupId>
 			<artifactId>client-java-extended</artifactId>
-			<version>16.0.0</version>
+			<version>21.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>io.kubernetes</groupId>
@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>io.kubernetes</groupId>
 			<artifactId>client-java-proto</artifactId>
-			<version>16.0.0</version>
+			<version>21.0.2</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-cli</groupId>
